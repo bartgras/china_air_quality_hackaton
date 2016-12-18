@@ -1,15 +1,15 @@
-# china_air_quality_hackaton
+# China air quality - Open Data hackaton, Shanghai 2016
 
 
-# Data sources
+## Data sources
 
-Air Quality Data, Year 2000 to 2015
+Air Quality Data, Year 2000 to 2013
 Website is in Chinese. 23mb of data. 3231 regions, with 400k rows. csv format
 https://www.gracecode.com/aqi.html
 Source: Gracecode.com
 
-Air Quality Data, April 5th to August 5th 2014
-137mb of data, of different toxics: NO2, O3, PM10, PM25, SO2. csv format
-http://berkeleyearth.lbl.gov/manual/china_air_quality/ 
-Source: Berkeley Earth
+## Notebook
 
+Jupyter notebook contains steps we took during hackaton. Because of not enough time annotations and most of the plots were added later.
+
+You can download the repository and use your ipython notebook to "play" with it or access it with browser:

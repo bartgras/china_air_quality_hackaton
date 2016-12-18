@@ -12,4 +12,6 @@ Source: Gracecode.com
 
 Jupyter notebook contains steps we took during hackaton. Because of not enough time annotations and most of the plots were added later.
 
-You can download the repository and use your ipython notebook to "play" with it or access it with browser:
+You can download the repository and use your ipython notebook to "play" with it or view it directly in browser:
+
+https://github.com/bartgras/china_air_quality_hackaton/blob/master/Shanghai%20AQI%20experiment%20with%20annotations.ipynb
